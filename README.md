@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0a0d,50:ff1493,100:ff69b4&height=220&section=header&text=Marcel520&fontSize=80&fontFamily=Orbitron&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Je%20ne%20cherche%20pas%20a%20dominer.%20C%27est%20naturel.&descAlignY=62&descColor=ffd6ec&descSize=14&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0a0d,50:ff1493,100:ff69b4&height=220&section=header&text=Sensei493&fontSize=80&fontFamily=Orbitron&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Je%20ne%20cherche%20pas%20a%20dominer.%20C%27est%20naturel.&descAlignY=62&descColor=ffd6ec&descSize=14&descAlign=50" />
 
 <br/>
 
@@ -44,11 +44,11 @@
 ### `./stats`
 
 ```txt
-  Frontend Mastery        ██████████████████░   96%   trop rapide pour etre suivi
-  Mobile Domination       █████████████████░░   91%   Android. iOS. Aucun favoritisme.
-  Backend Intelligence    ████████████████░░░   88%   je controle la logique
+  Frontend Mastery        █████████░░░░░░░░░░   55%   trop rapide pour etre suivi
+  Mobile Domination       ████░░░░░░░░░░░░░░░   35%   Android. iOS. Aucun favoritisme.
+  Backend Intelligence    █████████████░░░░░░   76%   je controle la logique
   UI / UX Precision       █████████████████░░   92%   beau sans effort
-  Raw Coding Instinct     ███████████████████   100%  ne s'apprend pas
+  Raw Coding Instinct     ██████████████░░░░░   86%  ne s'apprend pas
 ```
 
 ---
@@ -57,7 +57,7 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Sensei493-pro&theme=radical&hide_border=true&bg_color=0f0a0d&title_color=ff69b4&text_color=ffd6ec&icon_color=ff1493" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Sensei493&theme=radical&hide_border=true&bg_color=0f0a0d&title_color=ff69b4&text_color=ffd6ec&icon_color=ff1493" />
 
 <br/>
 
